@@ -1,0 +1,1 @@
+export const SHAKE_THRESHOLD = 3000;
